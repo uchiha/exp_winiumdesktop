@@ -1,0 +1,5 @@
+packages/*
+exp_winiumdesktop/bin*
+exp_winiumdesktop/obj
+exp_winiumdesktop_tests/bin*
+exp_winiumdesktop_tests/obj
